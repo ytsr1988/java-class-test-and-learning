@@ -1,3 +1,4 @@
+package fundermentals;
 public class ConstructorsTest {
 	public static void main(String[] args){
 		foo b = new foo("harry");
@@ -32,3 +33,9 @@ class foo {
 		System.out.println("Construct object from string: "+x);
 	}
 }
+
+/*
+
+
+
+*/
